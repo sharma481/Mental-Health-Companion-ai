@@ -16,12 +16,21 @@ It integrates the **Gemini API** for [briefly describe the API purpose, e.g., fe
 - **Responsive design** for desktop and mobile
 
 ---
+![Uploading Screenshot 2025-09-25 at 3.34.31 PM.png…]()
 
-## Tech Stack
+## Tech Stack<img width="1470" height="956" alt="Screenshot 2025-09-25 at 3 34 40 PM" src="https://github.com/user-attachments/assets/23f69731-3cc9-4e95-a987-86f7068fac5b" />
+
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Express.js  ![Uploading Screenshot 2025-09-25 at 3.34.37 PM.png…]()
+
 - **Database:** MongoDB  
 - **External API:** Gemini API  
+<img width="1470" height="956" alt="Screenshot 2025-09-25 at 3 34 45 PM" src="https://github.com/user-attachments/assets/29002abb-0e43-4c9c-b3ec-a14e45e8058e" />
+
+
+PROJECT DEMO 
+
+
 
 ---
 
