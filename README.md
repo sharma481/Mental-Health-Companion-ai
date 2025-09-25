@@ -14,6 +14,7 @@ It integrates the **Gemini API** for [briefly describe the API purpose, e.g., fe
 - **Gemini API integration** for real-time [data / crypto prices / other]  
 - **CRUD operations**: Create, Read, Update, Delete data  
 - **Responsive design** for desktop and mobile
+<img width="1470" height="956" alt="Screenshot 2025-09-25 at 3 34 31 PM" src="https://github.com/user-attachments/assets/612b2300-a7d6-4517-ba76-d4654ea59109" />
 
 ---
 ![Uploading Screenshot 2025-09-25 at 3.34.31 PM.png…]()
@@ -21,7 +22,7 @@ It integrates the **Gemini API** for [briefly describe the API purpose, e.g., fe
 ## Tech Stack<img width="1470" height="956" alt="Screenshot 2025-09-25 at 3 34 40 PM" src="https://github.com/user-attachments/assets/23f69731-3cc9-4e95-a987-86f7068fac5b" />
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  ![Uploading Screenshot 2025-09-25 at 3.34.37 PM.png…]()
+- **Backend:** Node.js, Express.js  <img width="1470" height="956" alt="Screenshot 2025-09-25 at 3 34 37 PM" src="https://github.com/user-attachments/assets/e4e27f54-10fc-4808-aa12-21aafd99a207" />
 
 - **Database:** MongoDB  
 - **External API:** Gemini API  
@@ -29,6 +30,7 @@ It integrates the **Gemini API** for [briefly describe the API purpose, e.g., fe
 
 
 PROJECT DEMO 
+![Uploading Screenshot 2025-09-25 at 3.34.37 PM.png…]()
 
 
 
